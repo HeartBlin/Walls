@@ -4,14 +4,8 @@
 
 ## About
 
-Hand-picked wallpapers that I find pleasing to look at. To be used with NixOS as a input
+Hand-picked wallpapers that I find pleasing to look at. To be used with NixOS.
 
-```nix
-{
-  inputs.walls.url = "github:HeartBlin/Walls";
-  inputs.walls.flake = false;
-}
-```
 > [!IMPORTANT]
 >
 > I will try to find and provide credit for all images in this repository
